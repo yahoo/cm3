@@ -1,3 +1,4 @@
+#!/usr/bin/perl -w
 ######################################################################
 # Copyright (c) 2012, Yahoo! Inc. All rights reserved.
 #
@@ -8,7 +9,6 @@
 ######################################################################
 
 
-#!/usr/bin/perl -w
 
 # doozer build-generate:
 #   stdin: storable map like
