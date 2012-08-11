@@ -251,7 +251,7 @@ sub update_inittab {
 }
 
 sub get_pgid {
-    if (-e $chisle_lockfile) {
+    if (-e $chisel_lockfile) {
         # if the lockfile exists, assume we're trusting it
         my @lsof = split "\n", qx[lsof -Fg $chisel_lockfile];
         my $pgid;

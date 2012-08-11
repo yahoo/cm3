@@ -1,3 +1,4 @@
+#!/usr/local/bin/perl -w
 ######################################################################
 # Copyright (c) 2012, Yahoo! Inc. All rights reserved.
 #
@@ -8,7 +9,6 @@
 ######################################################################
 
 
-#!/usr/local/bin/perl -w
 
 # doozer show-transports:
 #  - display push status for this doozer
